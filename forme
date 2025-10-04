@@ -1,0 +1,14 @@
+bloomwatch-app/
+├── backend/
+│   ├── app.py              # Flask API application
+│   ├── requirements.txt    # Python dependencies
+│   ├── config.py           # Configuration settings
+│   └── (data_processing/)  # Optional: For ML models, data scripts
+├── frontend/
+│   ├── index.html          # Main HTML page
+│   ├── style.css           # CSS for styling
+│   ├── script.js           # JavaScript for app logic, API calls, map
+│   └── (assets/)           # Optional: Images, icons
+├── .gitignore              # Files to ignore in Git
+├── README.md               # Project description, setup, usage
+└── LICENSE                 # Licensing information
